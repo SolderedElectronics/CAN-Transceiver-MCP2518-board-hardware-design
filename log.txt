@@ -127,3 +127,18 @@ Setting description
 Adding default .gitignore
 Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART CH340C converter board to USB-UART-CH340C-converter-board-hardware-design
 Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/CAN Transceiver MCP2518 board/.git/
+On branch main
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   log.txt
+
+[main 41e9864] Updating open source files.
+ 1 file changed, 15 insertions(+)
+https://github.com/SolderedElectronics/CAN-Transceiver-MCP2518-board-hardware-design.git
+/volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART CH340C converter board/OUTPUTS/V1.1.1: all files are present, commiting...
+USB-UART-CH340C-converter-board-hardware-design is a repo
+Making gh repo
+Setting description
+Adding default .gitignore
+Syncing /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/USB-UART CH340C converter board to USB-UART-CH340C-converter-board-hardware-design
+Reinitialized existing Git repository in /volume1/SOLDERED products/Soldered products/Komunikacija-yellow/CAN Transceiver MCP2518 board/.git/
